@@ -1,5 +1,5 @@
 package com.abhi.demo.pcfdemoserver.exception;
 
-public class LetterException {
+public class LetterException extends RuntimeException {
 
 }
