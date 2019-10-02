@@ -1,1 +1,1 @@
-this is my feature A text.
+This is my feature A text.
